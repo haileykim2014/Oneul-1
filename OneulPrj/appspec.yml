@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+
+files:
+  - source: /
+    destination: /home/ubuntu/build  #저장 위치
