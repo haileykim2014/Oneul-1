@@ -30,7 +30,7 @@
 
 ## 3. ERD 설계
 
-![https://github.com/haileykim2014/portfolio/blob/main/oneul/oneul_erd.jpg?raw=true](https://github.com/haileykim2014/portfolio/blob/main/oneul/oneul_erd.jpg?raw=true)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aac58a6c-28e8-414e-914e-8ce473987f6e/oneul_erd_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094812Z&X-Amz-Expires=86400&X-Amz-Signature=cfc12298c3ed984bdd296f8870d114cc4822f44ca5ee9e98e941592766b2ab79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22oneul_erd_%281%29.jpg%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aac58a6c-28e8-414e-914e-8ce473987f6e/oneul_erd_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094812Z&X-Amz-Expires=86400&X-Amz-Signature=cfc12298c3ed984bdd296f8870d114cc4822f44ca5ee9e98e941592766b2ab79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22oneul_erd_%281%29.jpg%22)
 
 ## 4. 구현 기능 화면 캡쳐
 
@@ -83,7 +83,7 @@
 
 ### 5.1. 전체 흐름
 
-![https://github.com/haileykim2014/portfolio/blob/main/oneul/oneul-overview.jpg?raw=true](https://github.com/haileykim2014/portfolio/blob/main/oneul/oneul-overview.jpg?raw=true)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/35d828b6-4920-453f-a9c2-5505868715a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094839Z&X-Amz-Expires=86400&X-Amz-Signature=d3e04d3a7facf1a0e9d9febb42960e600cc557a6a121663f0029129310800c7e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/35d828b6-4920-453f-a9c2-5505868715a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094839Z&X-Amz-Expires=86400&X-Amz-Signature=d3e04d3a7facf1a0e9d9febb42960e600cc557a6a121663f0029129310800c7e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### 5.2. View
 
