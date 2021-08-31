@@ -28,15 +28,22 @@
 - HTML
 - CSS
 
+
+<br>
+
 ## 3. ERD 설계
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aac58a6c-28e8-414e-914e-8ce473987f6e/oneul_erd_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094812Z&X-Amz-Expires=86400&X-Amz-Signature=cfc12298c3ed984bdd296f8870d114cc4822f44ca5ee9e98e941592766b2ab79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22oneul_erd_%281%29.jpg%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aac58a6c-28e8-414e-914e-8ce473987f6e/oneul_erd_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094812Z&X-Amz-Expires=86400&X-Amz-Signature=cfc12298c3ed984bdd296f8870d114cc4822f44ca5ee9e98e941592766b2ab79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22oneul_erd_%281%29.jpg%22)
+
+
 
 ## 4. 구현 기능 화면 캡쳐
 
 제가 구현한 기능은 자유일기시스템 및 댓글시스템입니다.
 
 사용자는 하루의 기분과 생각 및 사진을 기록 할 수 있고,  공개 여부를 통해 다른 사람들과 소통이 가능합니다.
+
+
 
 ### 4.1. 자유일기 목록 화면
 
@@ -45,6 +52,8 @@
 - 댓글갯수와 일기 공개여부가 각 일기의 하단에 표시됩니다.
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5329a993-61d5-46f4-843f-03e1e6669215/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094215Z&X-Amz-Expires=86400&X-Amz-Signature=489912abfb5d5755d9bb12fd85bf059d85575218fef69aa312ea1fbe24c16e92&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5329a993-61d5-46f4-843f-03e1e6669215/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094215Z&X-Amz-Expires=86400&X-Amz-Signature=489912abfb5d5755d9bb12fd85bf059d85575218fef69aa312ea1fbe24c16e92&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+
 
 ### 4.2. 자유일기 등록 화면
 
@@ -56,6 +65,8 @@
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/33312f35-c458-49bd-8553-4deba72de417/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094252Z&X-Amz-Expires=86400&X-Amz-Signature=95c92fc1682c1e5f06c1f14b53e8ae76d6b5487d342d5d28db9b037a2df1b745&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/33312f35-c458-49bd-8553-4deba72de417/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094252Z&X-Amz-Expires=86400&X-Amz-Signature=95c92fc1682c1e5f06c1f14b53e8ae76d6b5487d342d5d28db9b037a2df1b745&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
+
+
 ### 4.3. 자유일기 상세 화면
 
 - 사용자가 등록한 일기의 상세내역입니다.
@@ -65,6 +76,8 @@
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4bbc2d9-6ba3-46d6-917e-9a2b27b7286b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094320Z&X-Amz-Expires=86400&X-Amz-Signature=0418c75ed694568d0b61c45fc0bdc30abe68894c1f4ecc2e29cdd7da0f31859a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4bbc2d9-6ba3-46d6-917e-9a2b27b7286b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094320Z&X-Amz-Expires=86400&X-Amz-Signature=0418c75ed694568d0b61c45fc0bdc30abe68894c1f4ecc2e29cdd7da0f31859a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
+
+
 ### 4.4. 댓글 목록
 
 - 사용자는 공개되어있는 일기에 댓글을 남길 수 있습니다.
@@ -72,12 +85,16 @@
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e94d3ee-eb00-4e01-8d2d-0c1708ddfc70/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094343Z&X-Amz-Expires=86400&X-Amz-Signature=7a68bc5e19ee6b7a7bf81a230e9570d5aeb1fdce9b5a50231210dc4e16afc617&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e94d3ee-eb00-4e01-8d2d-0c1708ddfc70/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094343Z&X-Amz-Expires=86400&X-Amz-Signature=7a68bc5e19ee6b7a7bf81a230e9570d5aeb1fdce9b5a50231210dc4e16afc617&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
+
+
 ### 4.5. 대댓글 등록 화면
 
 - 사용자는 댓글의 댓글을 작성할 수 있습니다.
 - 부모댓글의 댓글버튼을 누르면 대댓글 작성을 위한 팝업창이 생깁니다.
 
 ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/973286aa-43b6-4249-9b2a-0c56db4ea857/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094405Z&X-Amz-Expires=86400&X-Amz-Signature=7a912ba8f549dcbc029a258dbe6e2396c64a3c8c74c125c5a618beb7efce9471&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/973286aa-43b6-4249-9b2a-0c56db4ea857/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T094405Z&X-Amz-Expires=86400&X-Amz-Signature=7a912ba8f549dcbc029a258dbe6e2396c64a3c8c74c125c5a618beb7efce9471&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+
 
 ## 5. 구현 기능 흐름 및 구조
 
