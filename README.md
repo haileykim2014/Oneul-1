@@ -1,4 +1,4 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23f9eba6-7f1b-4f25-8f9f-b1a585e9f73f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23f9eba6-7f1b-4f25-8f9f-b1a585e9f73f/Untitled.png)
+![logo](./img1.jpg)
 
 > 나의 하루를 정리하고 진정성있게 소통하는 공간
 > 
